@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunjay-code&label=Profile%20views&color=0e75b6&style=flat" alt="mrityunjay-code" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrityunjay-code" alt="mrityunjay-code" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrityunjay-code" alt="mrityunjay-code" /></a> </p> 
 
-<p align="left"> <a href="https://twitter.com/@mrityun48838594" target="blank"><img src="https://img.shields.io/twitter/follow/@mrityun48838594?logo=twitter&style=for-the-badge" alt="@mrityun48838594" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@mrityun48838594" target="blank"><img src="https://img.shields.io/twitter/follow/@mrityun48838594?logo=twitter&style=for-the-badge" alt="@mrityun48838594" /></a> </p> -->
 
 - 🔭 I’m currently working on [Void music](https://github.com/Mrityunjay-code)
 
