@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kmrityunjay360@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D5bGkQSIzPcRLJY4UUWbI6uW8klpw1Ar/view?usp=sharing](https://drive.google.com/file/d/1D5bGkQSIzPcRLJY4UUWbI6uW8klpw1Ar/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1EoDB_MPVGQtSGK-_3TedrzJGtsN2VeqJ?usp=share_link](https://drive.google.com/drive/folders/1EoDB_MPVGQtSGK-_3TedrzJGtsN2VeqJ?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
