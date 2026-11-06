@@ -41,7 +41,6 @@
 - 💼 **3+ years** building production web and mobile apps with React, Next.js, React Native, Node.js, Python and PHP
 - 👨‍💻 **Software Development Associate (Team Lead) at Spoxtale Digitech** (Oct 2023 – present): I mentor 2–3 developers and interns, assign and review work, and coordinate with clients
 - 🧑‍🎓 Previously **MERN Stack Developer Intern at Ahom Technologies** (May – Oct 2023)
-- 🏢 Founder of **[Seema IT Solutions](https://seemaitsolution.co.in)**: websites, SEO and custom software for small businesses
 - 🎓 B.Tech in Computer Science, Sunder Deep Engineering College (2019–2023)
 - 📍 Delhi NCR, India · open to Full Stack / MERN roles and willing to relocate
 
